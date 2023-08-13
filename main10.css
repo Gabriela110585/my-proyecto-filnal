@@ -41,19 +41,7 @@ body{
 text-decoration: none;
 color: aliceblue;
 } 
-}  @media screen and (main-width:600px) {
-  
-    .card-container{
-                display: none;
-                color: #EEE0C9;
-                justify-content: center;
-            } }
-            @media screen and (main-width:600px) {
-                .card-image{
-                    display: none;
-                    color: #EEE0C9;
-                    justify-content: center;
-                } }
+}  
 .card-container{
     width: 30rem;
     height: 15rem;
